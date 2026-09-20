@@ -1,0 +1,30 @@
+# AFX Gaming Mode - Dependencies
+# Target: Windows 10 / Windows 11
+# Recommended Python: 3.10+
+
+# Core system monitoring / process control
+psutil>=5.9.8
+
+# Modern desktop interface
+customtkinter>=5.2.2
+
+# Image support for future UI assets
+pillow>=10.0.0
+
+# Windows integration - optional future upgrade
+# pywin32>=306
+# WMI>=1.5.1
+
+# Charts / session reports - optional
+# matplotlib>=3.8.0
+# pandas>=2.0.0
+
+# EXE packaging - optional
+# pyinstaller>=6.0.0
+
+# Development tools - optional
+# pytest>=8.0.0
+# black>=24.0.0
+# ruff>=0.5.0
+
+# Keep optional packages commented until used.
