@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/preview.svg" alt="AFX-Gaming-Mode preview" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/features.svg" alt="AFX-Gaming-Mode features" width="100%" />
+</p>
+
 # AFX Gaming Mode
 
 A Windows gaming launcher focused on safe performance improvements, live system monitoring, and automatic restoration after your game closes.
